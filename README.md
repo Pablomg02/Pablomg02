@@ -1,4 +1,14 @@
-### Hi there 👋
+#### Hi everyone!
+
+Mi name is Pablo Magariños, and I am final-year student of the Aerospace Engineering degree at the University of Vigo.
+
+I am currently working on numerous projects related with my studies and specially with the sector in which I am envolved. One of those
+is **UVigo Aerotech**, the University of Vigo's Aero Design team where I am the Team Leader. Here, we design and manufacture wing-fixed drones with the aim of participate in international competitions and contest using modern engineering methods.
+
+Over the last few years, I have developed a strong interest in everything related to software solutions for the aerospace industry, such as computational fluid dynamics or advanced optimisation algorithms. But, on top of all these, I have developed a special interest in **artificial intelligence** and everything that relates it to engineering. That is why I am learning about this topic and looking to apply it on my own projects, which I hope to show you here :) 
+
+For now, I am just a visitor trying to learn about everything and everyone!
+
 
 <!--
 **Pablomg02/Pablomg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
