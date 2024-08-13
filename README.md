@@ -1,11 +1,12 @@
 #### Hi everyone!
 
-Mi name is Pablo Magariños, and I am final-year student of the Aerospace Engineering degree at the University of Vigo.
+Mi name is Pablo Magariños, and I am Aerospace Engineer, starting a MSc in Industrial Mathematics at the University Carlos III de Madrid.
 
-I am currently working on numerous projects related with my studies and specially with the sector in which I am envolved. One of those
-is **UVigo Aerotech**, the University of Vigo's Aero Design team where I am the Team Leader. Here, we design and manufacture wing-fixed drones with the aim of participate in international competitions and contest using modern engineering methods.
+During my degree studies, I spent three years on **UVigo Aerotech**, the University of Vigo's Aero Design team where I were the Team Leader. Here, we design and manufacture wing-fixed drones with the aim of participate in international competitions and contest using modern engineering methods. There I started to learn all about UAVs.
 
-My technical expertise spans flight mechanics, computer-based solutions like Computational Fluid Dynamics, and composites manufacturing. But what really excites me is the realm of **Artificial Intelligence**. I have foundation in developing AI algorithms, with hands-on experience in Python and MATLAB. That is why I am learning about this topic and looking to apply it on my own projects, which I hope to show you here :) 
+
+The projects I am focusing on are related to the aerospace sector, and consist of two fields that share many synergies: optimisation and Artificial Intelligence. 
+In this way, I am working on gaining experience in the field of UAVs and their autonomous flight.
 
 
 <!--
