@@ -2,10 +2,10 @@
 
 Mi name is Pablo Magariños, and I am Aerospace Engineer, starting a MSc in Industrial Mathematics at the University Carlos III de Madrid.
 
-During my degree studies, I spent three years on **UVigo Aerotech**, the University of Vigo's Aero Design team where I were the Team Leader. Here, we design and manufacture wing-fixed drones with the aim of participate in international competitions and contest using modern engineering methods. There I started to learn all about UAVs.
+During my degree studies, I spent three years on **UVigo Aerotech**, the University of Vigo's Aero Design team where I were the **Team Leader**. Here, we design and manufacture wing-fixed drones with the aim of participate in international competitions and contest using modern engineering methods. There I started to learn all about ***UAVs***.
 
 
-The projects I am focusing on are related to the aerospace sector, and consist of two fields that share many synergies: optimisation and Artificial Intelligence. 
+The projects I am focusing on are related to the aerospace sector, and consist of two fields that share many synergies: ***optimisation*** and ***Artificial Intelligence***. 
 In this way, I am working on gaining experience in the field of UAVs and their autonomous flight.
 
 
