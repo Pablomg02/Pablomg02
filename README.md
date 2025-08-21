@@ -1,4 +1,4 @@
-![Fondo](https://github.com/user-attachments/assets/832a2c79-3e90-4143-9bd4-0096fbf1b2ec)
+<img width="9449" height="2362" alt="Header" src="https://github.com/user-attachments/assets/45b738ee-3ad9-4fc6-9adf-4c606276561d" />
 
 #### Hi everyone
 
