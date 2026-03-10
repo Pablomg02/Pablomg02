@@ -1,4 +1,5 @@
-![humans](https://github.com/user-attachments/assets/30ce9c7c-aa59-422f-adc9-bffcca262679)
+![humans](https://github.com/user-attachments/assets/865f5606-f4d2-4875-a76c-c0713a24aa70)
+
 
 ![Autonomous AI](https://img.shields.io/badge/Autonomous_AI-7B2FBE?style=for-the-badge)
 ![Multi-Agent RL](https://img.shields.io/badge/Multi--Agent_RL-FF6B6B?style=for-the-badge)
